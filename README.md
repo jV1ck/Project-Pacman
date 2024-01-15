@@ -5,10 +5,15 @@ Welcome to the Pacman Game coded in C, developed as part of the APSC 143 Enginee
 
 How to Play
 Navigate Pacman through the maze using the following keys:
+
 w - Move Up
+
 a - Move Left
+
 s - Move Down
+
 d - Move Right
+
 Game Elements
 Pacman (P):
 
